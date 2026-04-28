@@ -2,6 +2,8 @@
 Marine Quality Control: ``marine_qc`` toolbox
 =============================================
 
+|mascot_ship| |mascot_dolphin| |mascot_buoy|
+
 +----------------------------+----------------------------------------------------------------+
 | Versions                   | |pypi|                                                         |
 +----------------------------+----------------------------------------------------------------+
@@ -182,3 +184,12 @@ This package was created with Cookiecutter_ and the `Ouranosinc/cookiecutter-pyp
 .. |zenodo| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.19680563.svg
         :target: https://doi.org/10.5281/zenodo.19680563
         :alt: DOI
+
+.. |mascot_ship| image:: https://github.com/glamod/marine_qc/blob/mascot/docs/_static/images/mascot_ship.png
+        :alt: MascotShip
+
+.. |mascot_dolphin| image:: https://github.com/glamod/marine_qc/blob/mascot/docs/_static/images/mascot_dolphin.png
+        :alt: MascotDolphin
+
+.. |mascot_buoy| image:: https://github.com/glamod/marine_qc/blob/mascot/docs/_static/images/mascot_buoy.png
+        :alt: MascotBuoy
