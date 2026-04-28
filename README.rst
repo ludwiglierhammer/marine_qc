@@ -1,8 +1,14 @@
+.. raw:: html
+
+   <div style="text-align: center;">
+       <img src="https://raw.githubusercontent.com/ludwiglierhammer/marine_qc/mascot/docs/_static/images/mascot_ship.png" width="150">
+       <img src="https://raw.githubusercontent.com/ludwiglierhammer/marine_qc/mascot/docs/_static/images/mascot_dolphin.png" width="150">
+       <img src="https://raw.githubusercontent.com/ludwiglierhammer/marine_qc/mascot/docs/_static/images/mascot_buoy.png" width="150">
+   </div>
+
 =============================================
 Marine Quality Control: ``marine_qc`` toolbox
 =============================================
-
-|mascot_ship| |mascot_dolphin| |mascot_buoy|
 
 +----------------------------+----------------------------------------------------------------+
 | Versions                   | |pypi|                                                         |
@@ -185,11 +191,14 @@ This package was created with Cookiecutter_ and the `Ouranosinc/cookiecutter-pyp
         :target: https://doi.org/10.5281/zenodo.19680563
         :alt: DOI
 
-.. |mascot_ship| image:: https://github.com/glamod/marine_qc/blob/mascot/docs/_static/images/mascot_ship.png
+.. |mascot_ship| image:: https://raw.githubusercontent.com/ludwiglierhammer/marine_qc/mascot/docs/_static/images/mascot_ship.png
         :alt: MascotShip
+        :width: 150px
 
-.. |mascot_dolphin| image:: https://github.com/glamod/marine_qc/blob/mascot/docs/_static/images/mascot_dolphin.png
+.. |mascot_dolphin| image:: https://raw.githubusercontent.com/ludwiglierhammer/marine_qc/mascot/docs/_static/images/mascot_dolphin.png
         :alt: MascotDolphin
+        :width: 150px
 
-.. |mascot_buoy| image:: https://github.com/glamod/marine_qc/blob/mascot/docs/_static/images/mascot_buoy.png
+.. |mascot_buoy| image:: https://raw.githubusercontent.com/ludwiglierhammer/marine_qc/mascot/docs/_static/images/mascot_buoy.png
         :alt: MascotBuoy
+        :width: 150px
